@@ -1,5 +1,6 @@
 package com.mergesort;
 
+// Inspired by http://www.vogella.com/tutorials/JavaAlgorithmsMergesort/article.html
 public class MergeSort {
 
     private int[] array;
